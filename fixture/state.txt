@@ -1,4 +1,3 @@
 seed_version=build001-fixture-v1
-generation=seed
-value=0
-
+generation=28d5e14cc8bc4008
+value=676193
