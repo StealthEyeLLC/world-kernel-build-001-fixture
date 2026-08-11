@@ -1,0 +1,6 @@
+StealthEye World Kernel Build 001 Campaign 2 P2 authenticated browser proof.
+Repository: StealthEyeLLC/world-kernel-build-001-fixture
+Branch: wk-b001-campaign2-p2-proof-20260811
+Created through eyeBROWSE-mediated GitHub web interaction on 2026-08-11.
+No credentials or production resources are contained in this fixture artifact.
+
