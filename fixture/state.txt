@@ -1,3 +1,4 @@
 seed_version=build001-fixture-v1
 generation=45a86504d1d7e721
 value=565093
+check_failure_probe=1
