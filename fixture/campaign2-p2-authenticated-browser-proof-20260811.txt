@@ -1,0 +1,3 @@
+World Kernel Build 001 Campaign 2 P2 authenticated eyeBROWSE proof.
+Provider mutation is intentionally confined to this disposable fixture branch.
+No credential or session material is recorded.
