@@ -1,4 +1,4 @@
 seed_version=build001-fixture-v1
 generation=seed
 value=0
-
+p2_browser_proof=campaign3-stalefresh-final
