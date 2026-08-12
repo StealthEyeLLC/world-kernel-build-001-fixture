@@ -1,0 +1,2 @@
+campaign=build001-campaign-3
+purpose=non-scientific P3 remote-ahead setup
