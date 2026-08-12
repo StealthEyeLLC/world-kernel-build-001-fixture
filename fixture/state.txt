@@ -2,3 +2,4 @@ seed_version=build001-fixture-v1
 generation=seed
 value=0
 
+campaign3_p3_native_push=1
