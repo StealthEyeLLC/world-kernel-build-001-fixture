@@ -1,4 +1,3 @@
-seed_version=build001-fixture-v1
-generation=seed
-value=0
-
+campaign=build001-campaign-3
+action=git:fetch_remote
+role=evaluator-remote-ahead
