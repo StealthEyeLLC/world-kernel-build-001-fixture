@@ -1,4 +1,1 @@
-seed_version=build001-fixture-v1
-generation=seed
-value=0
-
+campaign3_p2_browser_commit=2026-08-12T0849-0400
