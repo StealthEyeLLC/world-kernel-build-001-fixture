@@ -1,4 +1,3 @@
 seed_version=build001-fixture-v1
-generation=seed
-value=0
-
+generation=c2r-p2-live
+value=7
