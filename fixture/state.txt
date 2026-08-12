@@ -1,3 +1,4 @@
 seed_version=build001-fixture-v1
 generation=ae6e55c738540c20
 value=431509
+p6_accept_probe=1
